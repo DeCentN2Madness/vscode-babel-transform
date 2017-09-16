@@ -2,7 +2,7 @@
   "name": "vscode-babel-transform",
   "version": "1.0.0",
   "displayName": "vscode babel transform",
-  "description": "",
+  "description": "A helper extension for developers who don't use server side babel compiler.",
   "publisher": "AndyHsu",
   "engines": {
     "vscode": "^1.15.0"
