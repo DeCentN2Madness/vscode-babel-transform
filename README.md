@@ -1,21 +1,6 @@
-# vscode-babel-transform README
-
+# vscode-babel-transform 
 
 
 ## Features
 
-Use BabelTransform
-
-## Requirements
-
-
-
-## Extension Settings
-
-
-## Known Issues
-
-## Release Notes
-
-### 0.0.1
-- Test
+> BabelTransform
